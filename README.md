@@ -1,4 +1,7 @@
 # Relational Database Modeling
+## Solution
+
+![](./images/image.png)
 
 ## Introduction
 
