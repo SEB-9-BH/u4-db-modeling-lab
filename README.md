@@ -154,3 +154,5 @@ Here’s an HTML table representing RESTful routes for four different entities:
 - [Crow's Foot Notation Cheat Sheet](http://www.vivekmchawla.com/content/images/2013/Dec/ERD_Relationship_Symbols_Quick_Reference-1.png)
 - An Extra-Relevant [Resource for Students](https://developer.mozilla.org/en-US/docs/Web/Events)
 
+
+
